@@ -3,7 +3,7 @@ This script is for the Coursea "Getting and Cleaning Data" course project.
 included in this github repository should be:
 run_analysis.R - the R script to generate the tidy data from the Samsung dataset
 README.md - this file
-codebook.txt - the codebook for interpereting the final tidy data set.
+Codebook.md - the codebook for interpereting the final tidy data set.
 
 
 Requirements
